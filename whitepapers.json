@@ -1,0 +1,445 @@
+{
+	"bitcoin": {
+	    "whitepaper": {
+	    	"en": {
+                "url": "https://bitcoin.org/bitcoin.pdf",
+	            "size": 184292,
+	            "md5": "d56d71ecadf2137be09d8b1d35c6c042"
+	    	},
+	        "cn": {
+	        	"url": "http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system"
+	        }
+	    }
+	},
+	"ethereum": {
+	    "whitepaper": {
+	        "en": "https://github.com/ethereum/wiki/wiki/White-Paper",
+	        "cn": "https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6"
+	    },
+	    "mauve-paper": {
+	    	"en": "https://docs.google.com/document/d/1maFT3cpHvwn29gLvtY4WcQiI6kRbN_nbCf3JlgR3m_8/",
+	    	"cn": "http://8btc.com/thread-40113-1-1.html"
+	    },
+	    "yellow-papper": {
+	    	"en": {
+	    		"url": "http://www.cryptopapers.net/papers/ethereum-yellowpaper.pdf",
+	    	    "size": 517929,
+	    	    "md5": "58314b2ce186213c4c8bb65184c7adf4"
+	    	}
+	    	
+	    },
+	    "opensource": {
+	    	"truffle": "https://github.com/trufflesuite/truffle"
+	    }
+	},
+	"ripple": {
+	    "whitepaper": {
+	        "url": "https://ripple.com/files/ripple_consensus_whitepaper.pdf",
+	        "size": 295263,
+	        "md5": "d6743a4a45336e272b144d8489832627"
+	    }
+	},
+	"Dash": {
+	    "whitepaper": {
+	        "url": "https://www.dash.org/binaries/evo/DashPaper-v13-v1.pdf",
+	        "size": 1345772,
+	        "md5": "acf09183c8982bf826dcfed8a906639e"
+	    }
+	},
+	"nem": {
+	    "technical-reference": {
+	        "url": "https://www.nem.io/NEM_techRef.pdf",
+	        "size": 3839699,
+	        "md5": "0d1fd5d08bcc420ac6a51eebc7979e05"
+	    },
+	    "nem-catapult": {
+	        "url": "https://www.nem.io/catapultwhitepaper.pdf",
+	        "size": 730151,
+	        "md5": "3936f6248e8a4ce0271a7adc7840c044"
+	    }
+	},
+	"iota": {
+	    "whitepaper": {
+	        "url": "https://iota.org/IOTA_Whitepaper.pdf",
+	        "size": 348482,
+	        "md5": "97bff7f7a9e4363949443c36cb0ed6d1"
+	    }
+	},
+	"Monero": {
+	    "whitepaper": {
+	        "url": "https://cryptonote.org/whitepaper.pdf",
+	        "size": 459122,
+	        "md5": "1246d64b1981617168c37ae4130856e0"
+	    }
+	},
+	"Stratis": {
+	    "whitepaper": {
+	        "url": "https://stratisplatform.com/files/Stratis_Whitepaper.pdf",
+	        "size": 634585,
+	        "md5": "50199627a36f3ce92ab56135662718e3"
+	    }
+	},
+	"EOS": {
+	    "whitepaper": {
+	    	"en": {
+	            "url": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md"
+	        },
+	        "cn": {
+	            "url": "https://github.com/EOSIO/Documentation/blob/master/zh-CN/TechnicalWhitePaper.md",
+	            "size": ,
+	            "md5": ""
+	        }
+	    }
+	},
+	"NEO": {
+	    "whitepaper": {
+	        "en": {
+	            "url": "https://github.com/AntShares/docs/blob/master/en-us/white-paper.md"
+	        },
+	        "cn": {
+	            "url": "https://github.com/AntShares/docs/blob/master/zh-cn/white-paper.md"
+	        }
+	    }
+	},
+	"qtum": {
+	    "whitepaper": {
+	        "url": "https://qtum.org/uploads/files/cf6d69348ca50dd985b60425ccf282f3.pdf",
+	        "size": 2182703,
+	        "md5": "64c1727fe9498added629ad594685814"
+	    }
+	},
+	"BitShares": {
+	    "whitepaper": {
+	        "url": "http://docs.bitshares.org/bitshares/papers/index.html",
+	        "size": 501429,
+	        "md5": "c8f3b0d2ee4ea1fbf49230bed3bd9f97"
+	    }
+	},
+	"zcash": {
+	    "whitepaper": {
+	        "url": "http://zerocash-project.org/paper",
+	        "size": 858653,
+	        "md5": "5e2418aee3dee792885c9f2793ccccfa"
+	    }
+	},
+	"Golem": {
+	    "whitepaper": {
+	        "url": "http://golemproject.net/doc/DraftGolemProjectWhitepaper.pdf",
+	        "size": 542125,
+	        "md5": "da629f30e0d8fc2fd023a0311e5cbfde"
+	    }
+	},
+	"bytecoin": {
+	    "whitepaper": {
+	        "url": "https://bytecoin.org/old/whitepaper.pdf",
+	        "size": 459122,
+	        "md5": "1246d64b1981617168c37ae4130856e0"
+	    }
+	},
+	"sia": {
+	    "whitepaper": {
+	    	"en": {
+                "url": "https://www.sia.tech/whitepaper.pdf",
+	            "size": 156158,
+	            "md5": "69205920de9a9b607c42f76bfa3ce013"
+	    	},
+	        "cn": {
+	        	"url": "https://forum.sia.tech/topic/119/sia%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%90%E8%A1%8C%E7%9A%84-sia%E6%96%B0%E7%99%BD%E7%9A%AE%E4%B9%A6%E7%AE%80%E6%98%93%E7%89%88"
+	        }
+	    }
+	},
+	"steem": {
+	    "whitepaper": {
+	        "url": "https://steem.io/SteemWhitePaper.pdf",
+	        "size": 488484,
+	        "md5": "090a51ba031e9104634de9bd02bc7382"
+	    }
+	},
+	"waves": {
+	    "whitepaper": {
+	        "url": "https://wavesplatform.com/files/whitepaper_v0.pdf",
+	        "size": 2148830,
+	        "md5": "7aadf5025fd49d8bae9379aec0413e18"
+	    }
+	},
+	"storj": {
+	    "whitepaper": {
+	    	"en": {
+                "url": "https://storj.io/storj.pdf",
+	            "size": 942894,
+	            "md5": "c2bd43252ae3f57886fbee632b19cf14"
+	    	},
+	        "cn": {
+                "url": "https://storj.io/cn/resources/storj-whitepaper-cn.pdf",
+	            "size": 987211,
+	            "md5": "58b3f286cff7ab50b1be85238c4dedb7"
+	    	},
+	    }
+	},
+	"iex.ec": {
+	    "whitepaper": {
+	    	"en": {
+	            "url": "http://iex.ec/wp-content/uploads/2017/04/iExec-WPv2.0-English.pdf",
+	            "size": 1543228,
+	            "md5": "cc5509f9690bafa5048644eddccc949a"
+	        },
+	        "cn": {
+	            "url": "http://iex.ec/wp-content/uploads/2017/04/iExec-WPv2.0-Chinese.pdf",
+	            "size": 1132522,
+	            "md5": "149bdef96a25df27e47f9513f8863f9a"
+	        },
+	    }
+	},
+	"status": {
+	    "whitepaper": {
+	    	"en": {
+	            "url": "https://status.im/whitepaper.pdf",
+	            "size": 1105180,
+	            "md5": "79d45325c1349cd50224d8b566c7ab6d"
+	        },
+	        "cn": {
+	            "url": "https://status.im/whitepaper-cn.pdf",
+	            "size": 628339,
+	            "md5": "072a0d31cdd37e0033bbc76ca839aae5"
+	        },
+	    }
+	},
+	"tether": {
+	    "whitepaper": {
+	    	"en": {
+	            "url": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf",
+	            "size": 525172,
+	            "md5": "f6525d04145ad8b76dc26b84a84dce2f"
+	        }
+	    }
+	},
+	"bat": {
+	    "whitepaper": {
+	    	"en": {
+	            "url": "https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf",
+	            "size": 4494230,
+	            "md5": "69ade2c65a9e5691aa022904b74c40d6"
+	        }
+	    }
+	},
+	"ipfs": {
+	    "whitepaper": {
+	    	"en" : {
+              "url": "https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf",
+	          "size": 213363,
+	          "md5": "35719630cc9ce231306a63a3acd730ef"
+	    	},
+	    	"cn" : {
+              "url": "https://gguoss.github.io/2017/05/28/ipfs/"
+	    	},
+	        
+	    }
+	},
+	
+	"bancor": {
+	    "whitepaper": {
+	    	"en": {
+	            "url": "https://www.bancor.network/static/Bancor_Protocol_Whitepaper_en.pdf",
+	            "size": 1005593,
+	            "md5": "a05a4a269b32400bb53dec269faa73be"
+	        },
+	        "cn": {
+	            "url": "https://www.bancor.network/static/Bancor_Protocol_Whitepaper_cn.pdf",
+	            "size": 697874,
+	            "md5": "7abc110222ac6319c1ce3c3e74ab7695"
+	        }
+	    }
+	},
+	"Tezos": {
+	    "whitepaper": {
+	    	"en": {
+	            "url": "https://www.tezos.com/static/papers/white_paper.pdf",
+	            "size": 208622,
+	            "md5": "2dc8c02267a8fb86bd67a108199441bf"
+	        },
+	        "cn": {
+	            "url": "https://www.tezos.com/static/papers/white_paper_zh.pdf",
+	            "size": 509884,
+	            "md5": "25ea11e36843928068ed551dfa96e840"
+	        }
+	    }
+	},
+	"blockstack": {
+	    "whitepaper": {
+	        "url": "https://blockstack.org/whitepaper.pdf",
+	        "size": 499612,
+	        "md5": "c1264ea2920b948d8ccd4dabd9ab00b5"
+	    }
+	},
+	"aeternity": {
+	    "whitepaper": {
+	        "url": "https://blockchain.aeternity.com/%C3%A6ternity-blockchain-whitepaper.pdf",
+	        "size": 199428,
+	        "md5": "9222b068d4e8db3d205afa67597497f0"
+	    }
+	},
+	"Metaverse": {
+	    "whitepaper": {
+	        "url": "http://mvs.live/attachment/Metaverse-White-Paper(draft)-EN.pdf",
+	        "size": 408717,
+	        "md5": "5b277d8c7758f9f3a40912547baf9ebd"
+	    }
+	},
+	"inchain": {
+	    "whitepaper": {
+	        "url": "http://file.inchain.org/%E5%8D%B0%E9%93%BE%E7%99%BD%E7%9A%AE%E4%B9%A6%E7%AC%AC%E4%BA%8C%E7%89%88-%E9%9B%86%E5%90%88.rar",
+	        "size": 4252117,
+	        "md5": "702f73aad044a4e58124e8dab0790e0d"
+	    }
+	},
+	"trustsql": {
+	    "whitepaper": {
+	        "url": "https://trustsql.qq.com/chain_oss/TrustSQL_WhitePaper.html",
+	        "size": 2019328,
+	        "md5": "5e77cc34f5fc713cf44e0026dd305898"
+	    }
+	},
+	"HCash": {
+	    "whitepaper": {
+	    	"en": {
+	            "url": "https://h.cash/themes/en/dist/pdf/Hcash+Whitepaper+V0.8.1.pdf",
+	            "size": 7979858,
+	            "md5": "edc4be3f46569044599c081007716c3e"
+	        },
+	        "cn": {
+	            "url": "https://h.cash/themes/zh-cn/dist/pdf/HcashWhitepaper-Rev0.8.1.pdf",
+	            "size": 7061394,
+	            "md5": "5bba2a61c3fece46cb0ff33c24abbc99"
+	        }
+	    }
+	},
+	"BEX": {
+	    "whitepaper": {
+	        "en": {
+	            "url": "http://www.bex.world/whitepaper_eng.pdf",
+	            "size": 1075040,
+	            "md5": "0766ef78b3a42dcdecd74f7608bd9db0"
+	        },
+	        "cn": {
+	            "url": "http://www.bex.world/whitepaper_cn.pdf",
+	            "size": 942132,
+	            "md5": "3c71ed17dd62f5afcecc8520625810ea"
+	        }
+	    }
+	},
+	"OracleChain": {
+	    "whitepaper": {
+	        "cn": {
+	            "url": "http://oraclechain.io/files/oraclechain_white_paper.pdf",
+	            "size": 7303208,
+	            "md5": "a3915d5e2a7656e73d56efdd4b06a1d7"
+	        }
+	    }
+	},
+	"PolkaDot": {
+	    "whitepaper": {
+	        "cn": {
+	            "url": "https://github.com/polkadot-io/polkadotpaper/raw/master/PolkaDotPaper.pdf",
+	            "size": 4093798,
+	            "md5": "b7a03a0ba24d90f46c8826760e4eb6fb"
+	        }
+	    }
+	},
+	"BitClave": {
+	    "whitepaper": {
+	        "en": {
+	            "url": "https://www.bitclave.com/whitepaper"
+	        }
+	    }
+	},
+	"FileCoin": {
+	    "whitepaper": {
+	        "url": "https://filecoin.io/filecoin.pdf",
+	        "size": 628304,
+	        "md5": "c2ebcc5a239c3d1069ad3da7e5fa9800"
+	    }
+	},
+	"Bytom": {
+        "whitepaper": {
+	        "cn": {
+	            "url": "https://bytom.io/BytomWhitePaperV1.0.pdf",
+	            "size": 723885,
+	            "md5": "d4b8d01bd54c1fee1e42a22237a65edd"
+	        },
+	        "en": {
+	            "url": "https://bytom.io/BytomWhitePaperV1.0_En.pdf",
+	            "size": 392169,
+	            "md5": "d33999f011436acbfd9f6d5233b250bf"
+	        }
+	    }
+	},
+	"Mysterium": {
+        "whitepaper": {
+	        "cn": {
+	            "url": "https://mysterium.network/whitepaper-cn.pdf",
+	            "size": 1125896,
+	            "md5": "841879f08c1f77a1674621fdfa41f1df"
+	        },
+	        "en": {
+	            "url": "https://mysterium.network/whitepaper.pdf",
+	            "size": 1399641,
+	            "md5": "62a96aa5257643f3695f6c4daf314153"
+	        }
+	    }
+	},
+	"lunyr": {
+        "whitepaper": {
+	        "cn": {
+	            "url": "https://github.com/Lunyr/Lunyr/blob/master/Lunyr_White_Paper_CN.pdf",
+	            "size": 1576028,
+	            "md5": "ec25dc66c687781f7583cf22d8c4d356"
+	        },
+	        "en": {
+	            "url": "https://github.com/Lunyr/Lunyr/blob/master/Lunyr_White_Paper_ENG.pdf",
+	            "size": 1386038,
+	            "md5": "dfa6d9295d59a8c3b05e76d69c8586b3"
+	        }
+	    }
+	},
+	"yoyow": {
+        "whitepaper": {
+	        "cn": {
+	            "url": "https://yoyow.org/files/white-paper2.pdf",
+	            "size": 529845,
+	            "md5": "e604178403cb317ab71d350a036d515d"
+	        }
+	    }
+	},
+	"askcoin": {
+        "whitepaper": {
+	        "cn": {
+	            "url": "https://www.askcoin.org/askcoin_white_paper_cn.pdf",
+	            "size": 515399,
+	            "md5": "ffba1ffe9b1cf5b5b15b51fbe87ebb05"
+	        },
+	        "en": {
+	            "url": "https://www.askcoin.org/askcoin_white_paper.pdf",
+	            "size": 957410,
+	            "md5": "0904ce847c83320f25a6829c18391a3b"
+	        }
+	    }
+	},
+	"byteball": {
+        "whitepaper": {
+	        "en": {
+	            "url": "https://byteball.org/Byteball.pdf",
+	            "size": 571485,
+	            "md5": "d4bc511fcc59fe8660ca54bdcd9316f6"
+	        }
+	    }
+	},
+	"namecoin": {
+		"whitepaper": {
+	        "en": {
+	            "url": "https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2014-08-1/NET-2014-08-1_14.pdf",
+	            "size": 284810,
+	            "md5": "9dab5ff4a679fcf020bcbb55f3df5b9a"
+	        }
+	    }
+	}
+}
